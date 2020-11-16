@@ -5,9 +5,13 @@ Home: http://cimg.eu/
 
 Package license: CECILL-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cimg-feedstock/blob/master/LICENSE.txt)
 
 Summary: C++ Template Image Processing Toolkit
+
+Development: http://cimg.eu/reference/index.html
+
+Documentation: http://cimg.eu/reference/index.html
 
 C++ Template Image Processing Toolkit
 
