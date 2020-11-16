@@ -1,5 +1,5 @@
 {% set name = "CImg" %}
-{% set version = "2.9.2" %}
+{% set version = "2.9.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/dtschump/CImg/archive/v.{{ version }}.tar.gz
-  sha256: dffb0a78388d032eae8d6695afb58bc0429feaf7818b341e1926bb72ba6b6d0f
+  sha256: 51ded831c2b7d7dc90d2457a964caba169ffdd3ab0af24eaf46a2e548c16cbf5
 
 build:
   number: 0
